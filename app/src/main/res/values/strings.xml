@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JoelAguiar_Assignment5_TicTacToe</string>
+    <string name="bill_amount_label">Bill Amount</string>
+    <string name="bill_amount">Bill Amount Input</string>
+</resources>
