@@ -1,6 +1,22 @@
-# TicTacToe Android Application
-A TicTacToe android app game.
-The code that contains the logic of the game is: 
-MainActivity.java 
+# Tic-Tac-Toe Android Application
+A TicTacToe android app game. Written in Java using Android Studio. 
+
+Descrpiption: 
+This android application is a standard implementation of the game tic-tac-toe.
+It uses "X" and "O" to represent each player. On each turn, a player picks a 
+square, until one of the players either connects three squares or until there
+are no more spaces to pick.   
+
+Why this project exists: 
+This project was used to practice using Android Studio to develop mobile applications. 
+
+Additional modifications or features I plan to make: 
+-I plan to modify the logic of the game, so that the methods are more intuitive. 
+-I plan to introduce a one-player mode, where the players plays against the computer. 
+
+How to run it: 
+Open it in Android Studio. 
+
+
 
 
