@@ -17,6 +17,9 @@ This project was used to practice using Android Studio to develop mobile applica
 ## How to run it: 
 Open it in Android Studio. 
 
+## Screenshot of the game
+
+![screenshot of game](http://52.26.231.40/joelaguiar.com/images/GitHubImages/TicTactoe_photos/MiddleOfGame.jpg)
 
 
 
